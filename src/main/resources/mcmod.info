@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "MMAT",
+  "name": "Magic Mobs & Tech",
+  "description": "A mod created by EXOgreen and Gryphling for java learning purposes.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["EXOgreenMC"]["Gryphling"],
+  "credits": "The Forge and FML guys, for making Forge",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
