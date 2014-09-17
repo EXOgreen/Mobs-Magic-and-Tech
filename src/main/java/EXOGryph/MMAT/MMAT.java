@@ -34,7 +34,7 @@ public class MMAT {
 
     @EventHandler
     public void load(FMLInitializationEvent event) {
-        proxy.registerRenderers();
+        proxy.registerRenders();
     }
 
     @EventHandler
